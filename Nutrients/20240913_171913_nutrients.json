@@ -1,0 +1,68 @@
+[
+  {
+    "nutrient": "Energy",
+    "value": "114",
+    "unit": "kcal",
+    "rda": "<1%"
+  },
+  {
+    "nutrient": "Protein",
+    "value": "0.4",
+    "unit": "g",
+    "rda": ""
+  },
+  {
+    "nutrient": "Carbohydrates",
+    "value": "27.6",
+    "unit": "g",
+    "rda": ""
+  },
+  {
+    "nutrient": "Total Sugars",
+    "value": "25.5",
+    "unit": "g",
+    "rda": ""
+  },
+  {
+    "nutrient": "Added Sugars",
+    "value": "23",
+    "unit": "g",
+    "rda": "7%"
+  },
+  {
+    "nutrient": "Dietary Fibre",
+    "value": "0.7",
+    "unit": "g",
+    "rda": ""
+  },
+  {
+    "nutrient": "Total Fat",
+    "value": "Traces",
+    "unit": "g",
+    "rda": "<1%"
+  },
+  {
+    "nutrient": "Saturated Fat",
+    "value": "Traces",
+    "unit": "g",
+    "rda": "<1%"
+  },
+  {
+    "nutrient": "Trans Fat",
+    "value": "0",
+    "unit": "g",
+    "rda": "0%"
+  },
+  {
+    "nutrient": "Cholesterol",
+    "value": "0",
+    "unit": "mg",
+    "rda": ""
+  },
+  {
+    "nutrient": "Sodium",
+    "value": "745",
+    "unit": "mg",
+    "rda": "6%"
+  }
+]

@@ -1,0 +1,89 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Nutrition Label Extraction Schema",
+  "description": "Standard schema for extracted nutrition label data",
+  "type": "object",
+  "properties": {
+    "serving_size": {
+      "type": "object",
+      "description": "Serving size information",
+      "properties": {
+        "quantity": {
+          "type": ["number", "null"],
+          "description": "Numeric quantity of serving"
+        },
+        "unit": {
+          "type": ["string", "null"],
+          "description": "Unit of serving (g, ml, piece, etc.)"
+        }
+      }
+    },
+    "servings_per_container": {
+      "type": ["number", "null"],
+      "description": "Total number of servings in package"
+    },
+    "nutrients": {
+      "type": "array",
+      "description": "List of nutrients in the label",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Name of the nutrient (e.g., 'Protein', 'Sodium')",
+            "minLength": 1
+          },
+          "value": {
+            "type": ["number", "null"],
+            "description": "Numeric value of nutrient (Standardized to per 100g/100ml if available)"
+          },
+          "unit": {
+            "type": ["string", "null"],
+            "description": "Unit of measurement (g, mg, μg, %, kcal, etc.)"
+          },
+          "per_rda": {
+            "type": ["number", "null"],
+            "description": "Percentage of Daily Reference Value (% RDA)"
+          },
+          "confidence": {
+            "type": "number",
+            "description": "VLM confidence score (0-1) for this extraction",
+            "minimum": 0,
+            "maximum": 1
+          }
+        },
+        "required": ["name", "confidence"],
+        "additionalProperties": false
+      }
+    },
+    "ingredients": {
+      "type": "object",
+      "description": "Ingredients information from the package",
+      "properties": {
+        "list": {
+          "type": "array",
+          "description": "List of ingredients in order of predominance",
+          "items": {
+            "type": "string"
+          }
+        },
+        "allergens": {
+          "type": "array",
+          "description": "List of identified allergens",
+          "items": {
+            "type": "string"
+          }
+        },
+        "confidence": {
+          "type": "number",
+          "description": "VLM confidence score (0-1) for ingredients extraction",
+          "minimum": 0,
+          "maximum": 1
+        }
+      },
+      "required": ["list", "confidence"]
+    }
+  },
+  "required": ["nutrients"],
+  "additionalProperties": false
+}

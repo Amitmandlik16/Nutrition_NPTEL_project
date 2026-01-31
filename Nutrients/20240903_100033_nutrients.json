@@ -1,0 +1,44 @@
+[
+  {
+    "nutrient": "Energy",
+    "value": "202",
+    "unit": "kcal",
+    "rda": ""
+  },
+  {
+    "nutrient": "Fat",
+    "value": "0",
+    "unit": "g",
+    "rda": ""
+  },
+  {
+    "nutrient": "Saturated Fat",
+    "value": "0",
+    "unit": "g",
+    "rda": ""
+  },
+  {
+    "nutrient": "Carbohydrates",
+    "value": "47",
+    "unit": "g",
+    "rda": ""
+  },
+  {
+    "nutrient": "Sugars",
+    "value": "42",
+    "unit": "g",
+    "rda": ""
+  },
+  {
+    "nutrient": "Protein",
+    "value": "0.9",
+    "unit": "g",
+    "rda": ""
+  },
+  {
+    "nutrient": "Salt",
+    "value": "0.05",
+    "unit": "g",
+    "rda": ""
+  }
+]

@@ -1,0 +1,27 @@
+# --- Python Specific ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Environments ---
+# Virtual Environments (Local folders where libraries are installed)
+venv/
+env/
+.venv/
+
+# --- Environment Variables ---
+# Never push real API keys
+.env
+
+# --- Project Outputs & Temp Files ---
+# Intermediate processed images you don't need to save
+preprocessed/
+# Local logs/results (unless you want to share them)
+results/
+# Temporary files generated during batch processing
+temp_*
+proc_*
+
+# --- OS Generated Files ---
+.DS_Store
+Thumbs.db

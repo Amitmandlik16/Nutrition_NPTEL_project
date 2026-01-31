@@ -1,0 +1,47 @@
+[
+  {
+    "nutrient": "Energy",
+    "value": "326.65",
+    "unit": "kcal"
+  },
+  {
+    "nutrient": "Protein",
+    "value": "0.00",
+    "unit": "g"
+  },
+  {
+    "nutrient": "Carbohydrate",
+    "value": "85.21",
+    "unit": "g"
+  },
+  {
+    "nutrient": "Total Sugars",
+    "value": "83.83",
+    "unit": "g"
+  },
+  {
+    "nutrient": "Added Sugars",
+    "value": "79.49",
+    "unit": "g"
+  },
+  {
+    "nutrient": "Total Fat",
+    "value": "0.00",
+    "unit": "g"
+  },
+  {
+    "nutrient": "Cholesterol",
+    "value": "0.00",
+    "unit": "mg"
+  },
+  {
+    "nutrient": "Dietary Fibre",
+    "value": "0.00",
+    "unit": "g"
+  },
+  {
+    "nutrient": "Sodium",
+    "value": "0.67",
+    "unit": "mg"
+  }
+]

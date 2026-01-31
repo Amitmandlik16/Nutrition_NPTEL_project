@@ -1,0 +1,50 @@
+[
+  {
+    "nutrient": "Energy",
+    "value": "0",
+    "unit": "kcal",
+    "rda": "0%"
+  },
+  {
+    "nutrient": "Protein",
+    "value": "0",
+    "unit": "g",
+    "rda": ""
+  },
+  {
+    "nutrient": "Carbohydrate",
+    "value": "0",
+    "unit": "g",
+    "rda": ""
+  },
+  {
+    "nutrient": "Total Sugars",
+    "value": "0",
+    "unit": "g",
+    "rda": ""
+  },
+  {
+    "nutrient": "Added Sugars",
+    "value": "0",
+    "unit": "g",
+    "rda": "0%"
+  },
+  {
+    "nutrient": "Total Fat",
+    "value": "0",
+    "unit": "g",
+    "rda": "0%"
+  },
+  {
+    "nutrient": "Sodium",
+    "value": "38000",
+    "unit": "mg",
+    "rda": "19%"
+  },
+  {
+    "nutrient": "Iodine",
+    "value": "2",
+    "unit": "mg",
+    "rda": "14%"
+  }
+]
