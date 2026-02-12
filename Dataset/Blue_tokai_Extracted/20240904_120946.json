@@ -1,0 +1,114 @@
+{
+  "overall_confidence": 0.98,
+  "serving_size": {
+    "quantity": 50,
+    "unit": "g"
+  },
+  "servings_per_container": 20,
+  "nutrients": [
+    {
+      "name": "Energy",
+      "value": 287.11,
+      "unit": "kcal",
+      "confidence": 0.99,
+      "rda_value": 7.18,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Protein",
+      "value": 21.61,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": null
+    },
+    {
+      "name": "Carbohydrate",
+      "value": 4.83,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": null
+    },
+    {
+      "name": "Total Sugar",
+      "value": 4.83,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": null
+    },
+    {
+      "name": "Added Sugar",
+      "value": 0.0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 0,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Total Fat",
+      "value": 20.15,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 15.04,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Saturated Fat",
+      "value": 11.18,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 25.41,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Trans Fat",
+      "value": 0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 0,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Sodium",
+      "value": 749.83,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": 18.75,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Cholesterol",
+      "value": 46.81,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": null
+    },
+    {
+      "name": "Calcium",
+      "value": 748.39,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": null
+    }
+  ],
+  "ingredients": {
+    "list": [
+      "Mozzarella Cheese",
+      "Cheddar Cheese",
+      "Iodized Salt",
+      "Emulsifiers (E331)",
+      "Permitted Class II Preservatives (E200)"
+    ],
+    "confidence": 0.99
+  },
+  "allergens": {
+    "list": [
+      "Milk"
+    ],
+    "confidence": 0.99
+  }
+}

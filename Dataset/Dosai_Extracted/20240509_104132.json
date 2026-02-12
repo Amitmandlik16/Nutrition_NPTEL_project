@@ -1,0 +1,104 @@
+{
+  "overall_confidence": 0.96,
+  "serving_size": {
+    "quantity": 10,
+    "unit": "g"
+  },
+  "servings_per_container": null,
+  "nutrients": [
+    {
+      "name": "Energy",
+      "value": 334,
+      "unit": "Kcal",
+      "confidence": 0.99,
+      "rda_value": 2,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Protein",
+      "value": 10.3,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Carbohydrate",
+      "value": 73,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Total Sugar",
+      "value": 1,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 0,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Added Sugar",
+      "value": 1,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Total Fat",
+      "value": 138,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": 0.02,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Saturated Fat",
+      "value": 100,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Trans Fat",
+      "value": 100,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Cholesterol",
+      "value": 200,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Sodium",
+      "value": 100,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": 0,
+      "rda_confidence": 0.99
+    }
+  ],
+  "ingredients": {
+    "list": [
+      "Gum Arabic",
+      "Refined Wheat Flour (30% Approx.)",
+      "Asafoetida"
+    ],
+    "confidence": 0.99
+  },
+  "allergens": {
+    "list": [
+      "CONTAINS WHEAT"
+    ],
+    "confidence": 0.99
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "overall_confidence": 0.95,
+  "serving_size": {
+    "quantity": 100,
+    "unit": "g"
+  },
+  "servings_per_container": null,
+  "nutrients": [
+    {
+      "name": "Carbohydrate",
+      "value": 58.49,
+      "unit": "g",
+      "confidence": 0.98,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Cholesterol",
+      "value": 0,
+      "unit": "g",
+      "confidence": 0.98,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Dietary Fiber",
+      "value": 1.22,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Fat",
+      "value": 0.76,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Saturated Fat",
+      "value": 0.451,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Iron",
+      "value": 6.26,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Protein",
+      "value": 19.82,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Sodium",
+      "value": 1.36,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    }
+  ],
+  "ingredients": {
+    "list": [
+      "Urid Flour",
+      "Rice Flour",
+      "Vegetables Oil",
+      "Common Salt",
+      "Flour Treatment Agent [170(i)]"
+    ],
+    "confidence": 0.99
+  },
+  "allergens": {
+    "list": [],
+    "confidence": 0.0
+  }
+}

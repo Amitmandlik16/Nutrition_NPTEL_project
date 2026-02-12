@@ -1,0 +1,78 @@
+{
+  "overall_confidence": 0.99,
+  "serving_size": {
+    "quantity": 5,
+    "unit": "ml"
+  },
+  "servings_per_container": 12,
+  "nutrients": [
+    {
+      "name": "Energy",
+      "value": 16,
+      "unit": "kcal",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Protein",
+      "value": 0.98,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Total Fat",
+      "value": 0.66,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Saturated Fat",
+      "value": 0.21,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Carbohydrate",
+      "value": 1.59,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Total Sugars",
+      "value": 0.35,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Sodium",
+      "value": 687,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    }
+  ],
+  "ingredients": {
+    "list": [
+      "Distilled vinegar",
+      "red pepper",
+      "salt"
+    ],
+    "confidence": 0.99
+  },
+  "allergens": {
+    "list": [],
+    "confidence": 0.0
+  }
+}

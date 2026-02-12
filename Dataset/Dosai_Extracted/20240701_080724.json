@@ -1,0 +1,125 @@
+{
+  "overall_confidence": 0.99,
+  "serving_size": {
+    "quantity": null,
+    "unit": "ml"
+  },
+  "servings_per_container": null,
+  "nutrients": [
+    {
+      "name": "Energy",
+      "value": 337.22,
+      "unit": "kcal",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Protein",
+      "value": 0.00,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Carbohydrate",
+      "value": 84.30,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Total Sugar",
+      "value": 83.98,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Added Sugar",
+      "value": 83.90,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Fat",
+      "value": 0.00,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Dietary Fibre",
+      "value": 0.01,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Sodium",
+      "value": 28.57,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Vitamin B3",
+      "value": 13.4,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Vitamin B6",
+      "value": 2.2,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Vitamin B2",
+      "value": 1.1,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Vitamin B12",
+      "value": 1.1,
+      "unit": "mcg",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    }
+  ],
+  "ingredients": {
+    "list": [
+      "Sugar",
+      "Water",
+      "Taurine (2.2%)",
+      "Acidity regulator (E330 & E331(iii))",
+      "Caffeine (0.16%)",
+      "Dextrose",
+      "Preservative (E202)",
+      "Vitamins (B3, B6, B2, B12)",
+      "Flavour (Natural Identical Flavouring Substances)",
+      "Natural Food Colour (E150a)"
+    ],
+    "confidence": 0.99
+  },
+  "allergens": {
+    "list": [],
+    "confidence": 1.0
+  }
+}

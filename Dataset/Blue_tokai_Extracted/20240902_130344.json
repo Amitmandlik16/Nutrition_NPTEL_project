@@ -1,0 +1,122 @@
+{
+  "overall_confidence": 0.99,
+  "serving_size": {
+    "quantity": 25,
+    "unit": "g"
+  },
+  "servings_per_container": 40,
+  "nutrients": [
+    {
+      "name": "Energy",
+      "value": 345.5,
+      "unit": "Kcal",
+      "confidence": 0.99,
+      "rda_value": 4.30,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Protein",
+      "value": 6.3,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 2.90,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Carbohydrate",
+      "value": 4.5,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 0.90,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Total Sugar",
+      "value": 3.1,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Total Fat",
+      "value": 33.6,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 12.50,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Saturated Fat",
+      "value": 21.2,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 24.10,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Trans Fat",
+      "value": 0.0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Cholesterol",
+      "value": 101.4,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Vitamin A",
+      "value": 358.3,
+      "unit": "µg",
+      "confidence": 0.99,
+      "rda_value": 9.00,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Sodium",
+      "value": 57.9,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": 0.70,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Calcium",
+      "value": 197.8,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": 4.90,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Iron",
+      "value": 3.9,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": 5.20,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Potassium",
+      "value": 102.9,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": 0.70,
+      "rda_confidence": 0.99
+    }
+  ],
+  "ingredients": {
+    "list": [],
+    "confidence": 0.0
+  },
+  "allergens": {
+    "list": [],
+    "confidence": 0.0
+  }
+}

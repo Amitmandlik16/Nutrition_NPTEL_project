@@ -1,0 +1,111 @@
+{
+  "overall_confidence": 0.99,
+  "serving_size": {
+    "quantity": 7,
+    "unit": "g"
+  },
+  "servings_per_container": 105,
+  "nutrients": [
+    {
+      "name": "Energy",
+      "value": 136,
+      "unit": "kcal",
+      "confidence": 0.99,
+      "rda_value": 1.0,
+      "rda_confidence": 0.00
+    },
+    {
+      "name": "Protein",
+      "value": 6.82,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Carbohydrate",
+      "value": 27.00,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Total Sugars",
+      "value": 25.22,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Added Sugars",
+      "value": 24.34,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 3.4,
+      "rda_confidence": 0.50
+    },
+    {
+      "name": "Total Fat",
+      "value": 0.10,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 0.0,
+      "rda_confidence": 0.50
+    },
+    {
+      "name": "Saturated Fat",
+      "value": 0.00,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 0.0,
+      "rda_confidence": 0.50
+    },
+    {
+      "name": "Trans Fat",
+      "value": 0.00,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 0.0,
+      "rda_confidence": 0.50
+    },
+    {
+      "name": "Cholesterol",
+      "value": 0.00,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Sodium",
+      "value": 6200,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": 21.7,
+      "rda_confidence": 0.50
+    }
+  ],
+  "ingredients": {
+    "list": [
+      "Water",
+      "Sugar",
+      "Soyabean Extract 13%",
+      "Iodised Salt",
+      "Vegetable Protein (Soya)",
+      "Spices & Condiments",
+      "Natural Colour (INS 150c)",
+      "Acidity Regulator (INS 260)",
+      "Preservative (INS 211)"
+    ],
+    "confidence": 0.99
+  },
+  "allergens": {
+    "list": [
+      "Contains soy",
+      "may contain wheat"
+    ],
+    "confidence": 0.99
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "overall_confidence": 0.99,
+  "serving_size": {
+    "quantity": 10,
+    "unit": "g"
+  },
+  "servings_per_container": 100,
+  "nutrients": [
+    {
+      "name": "Energy",
+      "value": 28.8,
+      "unit": "kcal",
+      "confidence": 0.99,
+      "rda_value": 1.4,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Total Fat",
+      "value": 0.7,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 1.04,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Saturated Fat",
+      "value": 0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 0,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Trans Fat",
+      "value": 0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 0,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Cholesterol",
+      "value": 0,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Sodium",
+      "value": 2.3,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": 0.12,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Total Carbohydrate",
+      "value": 6.7,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Dietary Fiber",
+      "value": 4.04,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Total Sugars",
+      "value": 0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Added Sugars",
+      "value": 0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 0,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Protein",
+      "value": 0.9,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    }
+  ],
+  "ingredients": {
+    "list": [
+      "Dried Oregano Leaves"
+    ],
+    "confidence": 0.99
+  },
+  "allergens": {
+    "list": [],
+    "confidence": 0.0
+  }
+}

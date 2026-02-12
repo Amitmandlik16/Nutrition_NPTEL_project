@@ -1,0 +1,91 @@
+{
+  "overall_confidence": 0.99,
+  "serving_size": {
+    "quantity": null,
+    "unit": "ml"
+  },
+  "servings_per_container": null,
+  "nutrients": [
+    {
+      "name": "Energy",
+      "value": 308.37,
+      "unit": "kcal",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Protein",
+      "value": 0.36,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Carbohydrate",
+      "value": 76.62,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Total Sugar",
+      "value": 72.77,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Added Sugar",
+      "value": 70.62,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Fat",
+      "value": 0.05,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Dietary Fibre",
+      "value": 0.81,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Sodium",
+      "value": 84.25,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    }
+  ],
+  "ingredients": {
+    "list": [
+      "Sugar",
+      "Strawberry Fruit (Min 25%)",
+      "Invert Sugar Syrup",
+      "Water",
+      "Thickeners and Stabilizers (E1442, E415)",
+      "Acidity Regulator (E330, E331)",
+      "Preservatives (E202, E211)",
+      "Antioxidant (E300)"
+    ],
+    "confidence": 0.99
+  },
+  "allergens": {
+    "list": [],
+    "confidence": 1.0
+  }
+}

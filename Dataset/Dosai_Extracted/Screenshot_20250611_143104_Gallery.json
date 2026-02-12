@@ -1,0 +1,79 @@
+{
+  "overall_confidence": 0.98,
+  "serving_size": {
+    "quantity": 200,
+    "unit": "ml"
+  },
+  "servings_per_container": 1,
+  "nutrients": [
+    {
+      "name": "Energy",
+      "value": 40,
+      "unit": "kcal",
+      "confidence": 0.99,
+      "rda_value": 4.0,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Carbohydrate",
+      "value": 10,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Total Sugar",
+      "value": 10,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Added Sugar",
+      "value": 10,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 40,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Total Fat",
+      "value": 0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 0,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Protein",
+      "value": 0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Sodium",
+      "value": 140,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": 14,
+      "rda_confidence": 0.99
+    }
+  ],
+  "ingredients": {
+    "list": [
+      "Sugar",
+      "Permitted Class II Preservatives (E-211)",
+      "Acidity Regulators (E-330, E-331)",
+      "Added Lemon Flavour (Natural Flavouring Substances)"
+    ],
+    "confidence": 0.90
+  },
+  "allergens": {
+    "list": [],
+    "confidence": 1.0
+  }
+}

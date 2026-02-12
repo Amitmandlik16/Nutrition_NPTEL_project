@@ -1,0 +1,88 @@
+{
+  "overall_confidence": 0.99,
+  "serving_size": {
+    "quantity": null,
+    "unit": "ml"
+  },
+  "servings_per_container": null,
+  "nutrients": [
+    {
+      "name": "Energy",
+      "value": 347.256,
+      "unit": "kcal",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Protein",
+      "value": 0.00,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Carbohydrate",
+      "value": 83.88,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Total sugar",
+      "value": 82.90,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Added Sugar",
+      "value": 82.90,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Total Fat",
+      "value": 0.00,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Dietary Fibre",
+      "value": 0.00,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Sodium",
+      "value": 0.00,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    }
+  ],
+  "ingredients": {
+    "list": [
+      "Sugar",
+      "Water",
+      "Preservative (E202)",
+      "Acidity Regulator (E330)",
+      "Nature Identical Flavours"
+    ],
+    "confidence": 0.99
+  },
+  "allergens": {
+    "list": [],
+    "confidence": 1.0
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "overall_confidence": 0.98,
+  "serving_size": {
+    "quantity": 45,
+    "unit": "g"
+  },
+  "servings_per_container": 22,
+  "nutrients": [
+    {
+      "name": "Energy",
+      "value": 251,
+      "unit": "kcal",
+      "confidence": 0.99,
+      "rda_value": 6,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Total Fat",
+      "value": 17.0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 11,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Saturated Fat",
+      "value": 11.0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 23,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Trans Fat",
+      "value": 0.0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 0,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Cholesterol",
+      "value": 50,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Carbohydrate",
+      "value": 2.0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Total Sugars",
+      "value": 2.0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Added Sugars",
+      "value": 0.0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 0,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Protein",
+      "value": 22.0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Sodium",
+      "value": 370,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": 8,
+      "rda_confidence": 0.99
+    }
+  ],
+  "ingredients": {
+    "list": [
+      "Milk solids",
+      "iodized salt",
+      "microbial rennet",
+      "active culture"
+    ],
+    "confidence": 0.86
+  },
+  "allergens": {
+    "list": [
+      "Contains milk"
+    ],
+    "confidence": 0.99
+  }
+}

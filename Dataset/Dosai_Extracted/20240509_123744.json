@@ -1,0 +1,106 @@
+{
+  "overall_confidence": 0.40,
+  "serving_size": {
+    "quantity": null,
+    "unit": "100gm"
+  },
+  "servings_per_container": null,
+  "nutrients": [
+    {
+      "name": "Energy",
+      "value": 428.21,
+      "unit": "kcal",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Protein",
+      "value": 4.91,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Carbohydrate",
+      "value": 79.22,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Total Sugar",
+      "value": 69.72,
+      "unit": "g",
+      "confidence": 0.50,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Added Sugar",
+      "value": 65.68,
+      "unit": "g",
+      "confidence": 0.50,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Total Fat",
+      "value": 10.09,
+      "unit": "g",
+      "confidence": 0.50,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Saturated Fat",
+      "value": 9.52,
+      "unit": "g",
+      "confidence": 0.0,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Trans Fat",
+      "value": 0.00,
+      "unit": "g",
+      "confidence": 0.50,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Cholesterol",
+      "value": 0.69,
+      "unit": "mg",
+      "confidence": 0.00,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Dietary Fibre",
+      "value": 0.53,
+      "unit": "g",
+      "confidence": 0.90,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Sodium",
+      "value": 136.12,
+      "unit": "mg",
+      "confidence": 0.40,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    }
+  ],
+  "ingredients": {
+    "list": [],
+    "confidence": 0.0
+  },
+  "allergens": {
+    "list": [],
+    "confidence": 0.0
+  }
+}

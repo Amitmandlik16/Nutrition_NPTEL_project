@@ -1,0 +1,100 @@
+{
+  "overall_confidence": 0.99,
+  "serving_size": {
+    "quantity": 250,
+    "unit": "ml"
+  },
+  "servings_per_container": 2,
+  "nutrients": [
+    {
+      "name": "Energy",
+      "value": 89,
+      "unit": "kcal",
+      "confidence": 0.99,
+      "rda_value": 11.1,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Protein",
+      "value": 3.3,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Carbohydrate",
+      "value": 5,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Total Sugars",
+      "value": 5,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Added Sugars",
+      "value": 0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 0,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Total Fat",
+      "value": 6.2,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 23.1,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Saturated Fat",
+      "value": 4.3,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 48.9,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Cholesterol",
+      "value": 11.2,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Calcium",
+      "value": 134,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Sodium",
+      "value": 55,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": 6.9,
+      "rda_confidence": 0.99
+    }
+  ],
+  "ingredients": {
+    "list": [
+      "Milk Solids"
+    ],
+    "confidence": 0.99
+  },
+  "allergens": {
+    "list": [],
+    "confidence": 1.0
+  }
+}

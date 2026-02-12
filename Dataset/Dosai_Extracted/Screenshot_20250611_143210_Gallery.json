@@ -1,0 +1,89 @@
+{
+  "overall_confidence": 0.98,
+  "serving_size": {
+    "quantity": 15,
+    "unit": "g"
+  },
+  "servings_per_container": 6,
+  "nutrients": [
+    {
+      "name": "Energy",
+      "value": 439.3,
+      "unit": "kcal",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Carbohydrate",
+      "value": 55.7,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Protein",
+      "value": 17.0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Fat",
+      "value": 16.5,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 3.7,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Saturated Fat",
+      "value": 11.0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 7.5,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Trans Fat",
+      "value": 0.1,
+      "unit": "g",
+      "confidence": 0.90,
+      "rda_value": 0.0,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Cholesterol",
+      "value": 1.0,
+      "unit": "mg",
+      "confidence": 0.90,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Sodium",
+      "value": 55.5,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": 0.4,
+      "rda_confidence": 0.99
+    }
+  ],
+  "ingredients": {
+    "list": [
+      "Spice Content - 84% (Red Chilli Powder, Coriander, Turmeric Powder, Mustard, Black Pepper, Fenugreek, Cumin and Curry Leaves)",
+      "Gram Dhal",
+      "Toor Dhal",
+      "Rice"
+    ],
+    "confidence": 0.80
+  },
+  "allergens": {
+    "list": [
+      "Contains Mustard"
+    ],
+    "confidence": 0.99
+  }
+}

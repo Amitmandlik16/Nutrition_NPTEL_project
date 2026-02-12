@@ -1,0 +1,19 @@
+{
+  "overall_confidence": 0.99,
+  "serving_size": {
+    "quantity": null,
+    "unit": null
+  },
+  "servings_per_container": null,
+  "nutrients": [],
+  "ingredients": {
+    "list": [
+      "Cherry Tomato"
+    ],
+    "confidence": 0.99
+  },
+  "allergens": {
+    "list": [],
+    "confidence": 0.0
+  }
+}

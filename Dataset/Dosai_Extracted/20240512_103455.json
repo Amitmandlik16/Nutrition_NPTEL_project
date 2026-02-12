@@ -1,0 +1,103 @@
+{
+  "overall_confidence": 0.98,
+  "serving_size": {
+    "quantity": 100,
+    "unit": "g"
+  },
+  "servings_per_container": 10,
+  "nutrients": [
+    {
+      "name": "Energy",
+      "value": 62,
+      "unit": "kcal",
+      "confidence": 0.99,
+      "rda_value": 3.1,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Protein",
+      "value": 3.7,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Carbohydrate",
+      "value": 5,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Total Sugars",
+      "value": 5,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Added Sugars",
+      "value": 0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 0,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Total Fat",
+      "value": 3,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 4.47,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Saturated Fat",
+      "value": 2.1,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 9.54,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Cholesterol",
+      "value": 3.4,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Calcium",
+      "value": 168,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Sodium",
+      "value": 47.6,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": 2.38,
+      "rda_confidence": 0.99
+    }
+  ],
+  "ingredients": {
+    "list": [
+      "Toned Milk",
+      "Water",
+      "Milk solids",
+      "Active lactic culture"
+    ],
+    "confidence": 0.99
+  },
+  "allergens": {
+    "list": [],
+    "confidence": 1.0
+  }
+}

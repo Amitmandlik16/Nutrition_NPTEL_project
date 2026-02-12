@@ -1,0 +1,82 @@
+{
+  "overall_confidence": 0.99,
+  "serving_size": {
+    "quantity": 100,
+    "unit": "gm"
+  },
+  "servings_per_container": 2,
+  "nutrients": [
+    {
+      "name": "Ash",
+      "value": 3.55,
+      "unit": "gm",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Energy",
+      "value": 571,
+      "unit": "Kcal",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Protein",
+      "value": 6.46,
+      "unit": "gm",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Carbohydrates",
+      "value": 48.02,
+      "unit": "gm",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Sugar",
+      "value": 0,
+      "unit": "gm",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Fat",
+      "value": 39.25,
+      "unit": "gm",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Crude Fiber",
+      "value": 0.45,
+      "unit": "gm",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Moisture",
+      "value": 1.75,
+      "unit": "gm",
+      "confidence": 0.0,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    }
+  ],
+  "ingredients": {
+    "list": [],
+    "confidence": 0.5
+  },
+  "allergens": {
+    "list": [],
+    "confidence": 0.0
+  }
+}

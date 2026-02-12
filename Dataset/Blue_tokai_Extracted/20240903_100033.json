@@ -1,0 +1,78 @@
+{
+  "overall_confidence": 0.98,
+  "serving_size": {
+    "quantity": 100,
+    "unit": "ml"
+  },
+  "servings_per_container": 2.5,
+  "nutrients": [
+    {
+      "name": "Energy",
+      "value": 202,
+      "unit": "kcal",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Fat",
+      "value": 0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "of which saturated fat",
+      "value": 0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Carbohydrates",
+      "value": 47,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "of which sugars",
+      "value": 42,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Protein",
+      "value": 0.9,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Salt",
+      "value": 0.05,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    }
+  ],
+  "ingredients": {
+    "list": [
+      "Balsamic Vinegar of Modena",
+      "Cooked grape must",
+      "Modified corn starch"
+    ],
+    "confidence": 0.00
+  },
+  "allergens": {
+    "list": [],
+    "confidence": 0.0
+  }
+}

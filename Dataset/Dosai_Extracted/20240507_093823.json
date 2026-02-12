@@ -1,0 +1,132 @@
+{
+  "overall_confidence": 0.98,
+  "serving_size": {
+    "quantity": null,
+    "unit": null
+  },
+  "servings_per_container": null,
+  "nutrients": [
+    {
+      "name": "Energy",
+      "value": 269.18,
+      "unit": "kcal",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Protein",
+      "value": 0.02,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Carbohydrate",
+      "value": 62.73,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Total sugar",
+      "value": 49.75,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Added Sugar",
+      "value": 49.23,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Fat",
+      "value": 2.02,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Saturated Fatty Acids",
+      "value": 1.28,
+      "unit": "g",
+      "confidence": 0.98,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Mono Unsaturated Fatty Acids",
+      "value": 0.61,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Poly Unsaturated Fatty Acids",
+      "value": 0.12,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Trans Fatty Acids",
+      "value": 0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Cholesterol",
+      "value": 0.00,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Dietary Fibre",
+      "value": 0.06,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Sodium",
+      "value": 110.70,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    }
+  ],
+  "ingredients": {
+    "list": [
+      "Sugar",
+      "Water",
+      "Liquid Glucose",
+      "Milk Solids",
+      "Thickeners (E1442, E440 & E415)",
+      "Iodised Salt",
+      "Preservative (E202)"
+    ],
+    "confidence": 0.99
+  },
+  "allergens": {
+    "list": [
+      "CONTAINS MILK"
+    ],
+    "confidence": 0.99
+  }
+}

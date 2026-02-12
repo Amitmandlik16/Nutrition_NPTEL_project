@@ -1,0 +1,115 @@
+{
+  "overall_confidence": 0.99,
+  "serving_size": {
+    "quantity": 60,
+    "unit": "ml"
+  },
+  "servings_per_container": 12,
+  "nutrients": [
+    {
+      "name": "Energy",
+      "value": 210,
+      "unit": "kcal",
+      "confidence": 0.99,
+      "rda_value": 10.5,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Total Fat",
+      "value": 0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 0,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Saturated Fat",
+      "value": 0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 0,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Trans Fat",
+      "value": 0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 0,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Cholesterol",
+      "value": 0,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Sodium",
+      "value": 25,
+      "unit": "mg",
+      "confidence": 0.99,
+      "rda_value": 1.3,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Total Carbohydrate",
+      "value": 53,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Total Sugars",
+      "value": 35,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Dietary Fiber",
+      "value": 0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    },
+    {
+      "name": "Added Sugars",
+      "value": 35,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": 70,
+      "rda_confidence": 0.99
+    },
+    {
+      "name": "Protein",
+      "value": 0,
+      "unit": "g",
+      "confidence": 0.99,
+      "rda_value": null,
+      "rda_confidence": 0.0
+    }
+  ],
+  "ingredients": {
+    "list": [
+      "SUGAR",
+      "WATER",
+      "CARAMEL FLAVOR (NATURE IDENTICAL)",
+      "MAPLE FLAVOR (NATURE IDENTICAL)",
+      "PRESERVATIVE: POTASSIUM SORBATE (INS 202)",
+      "SODIUM BENZOATE (INS 211)",
+      "THICKENER: XANTHAN GUM (INS 415)",
+      "CONTAINS ADDED FLAVOR (NATURE IDENTICAL)"
+    ],
+    "confidence": 0.99
+  },
+  "allergens": {
+    "list": [],
+    "confidence": 0.0
+  }
+}
